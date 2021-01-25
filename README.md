@@ -1,3 +1,5 @@
+## 支付宝扫一扫
+
 本 demo 为 [扫一扫](https://help.aliyun.com/document_detail/52596.html?spm=a2c4g.11186623.6.1511.616e3766QGv4RN) 单组件 demo，clone 后直接运行工程即可。
 
 ### 支持基线与接入方式
